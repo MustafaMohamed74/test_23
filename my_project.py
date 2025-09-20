@@ -5,3 +5,4 @@ elif user < num:
         print("Too low!")
 else:
         print("Too high!")
+        
